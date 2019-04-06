@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1554554076 source:c:\users\gregory-pc\desktop\c\tuti\iskola.c
+	"iskola.h"
+
+1554554096 c:\users\gregory-pc\desktop\c\tuti\iskola.h
+	<stdio.h>
+	<stdlib.h>
+
+1554554065 source:c:\users\gregory-pc\desktop\c\tuti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<errno.h>
+	"iskola.h"
+
